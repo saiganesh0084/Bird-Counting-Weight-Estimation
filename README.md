@@ -92,4 +92,13 @@ Expanding the dataset and refining the model require significant labeling and tr
 End-to-end ML pipeline:
 ```
 Video → Frames → Labeling → Training → Detection → Tracking → Analytics
+
 ```
+
+---
+### Bounding Box (frames)
+
+<img width="958" height="541" alt="image" src="https://github.com/user-attachments/assets/de08097a-46c0-4b8b-a0ee-25a7ff395bfc" />
+
+---
+
