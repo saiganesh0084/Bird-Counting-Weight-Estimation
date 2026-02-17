@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['chicken']
+
+roboflow:
+  workspace: sg-5oegd
+  project: chicken-detection-jhpwu
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/sg-5oegd/chicken-detection-jhpwu/1
